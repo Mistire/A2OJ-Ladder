@@ -3,7 +3,7 @@
 
 | Checkbox                     |  ID   |                                                        Category                                                         | Problems Count |
 | ---------------------------- | :---: | :---------------------------------------------------------------------------------------------------------------------: | -------------- |
-| <ul><li>- [ ] Done</li></ul> |   1   |                               [Dynamic Programming](001.%20Dynamic_Programming/README.md)                               | 1211           |
+| <ul><li>- [ x ] Done</li></ul> |   1   |                               [Dynamic Programming](001.%20Dynamic_Programming/README.md)                               | 1211           |
 | <ul><li>- [ ] Done</li></ul> |   2   |                                    [implementation](002.%20implementation/README.md)                                    | 1054           |
 | <ul><li>- [ ] Done</li></ul> |   3   |                                              [math](003.%20math/README.md)                                              | 679            |
 | <ul><li>- [ ] Done</li></ul> |   4   |                                            [Greedy](004.%20Greedy/README.md)                                            | 599            |
